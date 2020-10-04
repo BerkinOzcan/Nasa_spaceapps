@@ -6,3 +6,5 @@ As humanity we have been trying to go further. So, from the beginning of the roc
  # This is a Flutter App
  We have developed an app which includes a showcase of propulsion systems.It is important because it points out need for new propulsion technologies, make people aware of this problem.
  Flutter apps can be developed for ios,android and web in one codebase.
+# If you download this repo
+Make sure that you rename the folder as Nasa_spaceapps
