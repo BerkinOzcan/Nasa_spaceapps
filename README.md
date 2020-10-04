@@ -1,16 +1,8 @@
-# nasa_spaceapps
+# -Boşluk- Propulsion Systems Awareness App
 
-A new Flutter project.
+ # Summary
+As humanity we have been trying to go further. So, from the beginning of the rocket age to today engineers and scientist have developed many propulsion technology to push the things away. Traveling at speed of light could enable humanity to reach other stars and even other galaxies in a period of human life.Although propulsion systems have developed so much, we are not even close to travel at speed of light. In this project we aimed to create awareness among people by comparing current and expected propulsion systems. In our mobile app people can get information about almost all types of space propulsion systems.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ # This is a Flutter App
+ We have developed an app which includes a showcase of propulsion systems.It is important because it points out need for new propulsion technologies, make people aware of this problem.
+ Flutter apps can be developed for ios,android and web in one codebase.
